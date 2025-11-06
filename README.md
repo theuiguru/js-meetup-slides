@@ -5,3 +5,5 @@
 4. JS Modules - 09/2020
 5. JavaScript Errors - 03/2023
 6. Object Oriented Programming in TypeScript - 05/2023
+
+Taken from [LIJS Github](https://github.com/longislandjavascript)
